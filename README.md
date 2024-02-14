@@ -1,4 +1,4 @@
-## Olá! Eu sou a Guilherme Silva
+## Olá! Eu sou o Guilherme Silva
 <div>
   <a href="https://github.com/guitxdasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
