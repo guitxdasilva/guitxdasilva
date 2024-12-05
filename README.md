@@ -1,15 +1,15 @@
-# 👋 Olá, eu sou Guilherme!  
+# 👋 Hi, I'm Guilherme!  
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções que façam a diferença.  
+I'm a Full Stack Web and Mobile Developer passionate about technology, always striving to learn and create impactful solutions.  
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=radical)  
 
 ---
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Technologies I Work With
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -20,10 +20,12 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" height="40" alt="Expo"/>
 </div>
 
 ---
 
-## 🌐 Vamos nos conectar!
+## 🌐 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.br.linkedin.com/in/guilherme-tx-silva/)
