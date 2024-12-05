@@ -4,8 +4,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=radical)  
 
 ---
 
