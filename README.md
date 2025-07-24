@@ -27,4 +27,4 @@ I'm a Full Stack Web and Mobile Developer passionate about technology, always st
 
 ## 🌐 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.br.linkedin.com/in/guilherme-tx-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-tx-silva/)
