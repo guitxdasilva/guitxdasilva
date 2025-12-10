@@ -2,11 +2,6 @@
 
 I'm a Full Stack Web and Mobile Developer passionate about technology, always striving to learn and create impactful solutions.  
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=radical)  
-
 ---
 
 ## 🛠️ Technologies I Work With
