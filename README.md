@@ -71,25 +71,6 @@ Specialized in **React**, **Node.js**, **TypeScript** and **React Native**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/guitxdasilva">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/guitxdasilva">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Most Used Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/guitxdasilva">
-    <img src="https://streak-stats.demolab.com/?user=guitxdasilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=guitxdasilva&color=blueviolet&style=flat-square" alt="Profile views" />
   
