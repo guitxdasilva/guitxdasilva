@@ -74,12 +74,18 @@ Specialized in **React**, **Node.js**, **TypeScript** and **React Native**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <a href="https://github.com/guitxdasilva">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=guitxdasilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/guitxdasilva">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitxdasilva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Most Used Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guitxdasilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/guitxdasilva">
+    <img src="https://streak-stats.demolab.com/?user=guitxdasilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
